@@ -1,2 +1,2 @@
 # hello-world
-This is for practicing GitHub
+Hello People Im here practicing Github.
